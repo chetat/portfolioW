@@ -8,7 +8,7 @@ import {
   XIcon,
 } from '@/components/SocialIcons'
 import image4 from '@/images/photos/Profile.png'
-import { getAllArticles } from '@/lib/articles'
+
 
 
 function SocialLink({
@@ -44,7 +44,7 @@ export default async function Home() {
               Software Engineer | Delivering Impactful Solutions
             </h1>
             <p className="mt-6 text-base text-zinc-600 dark:text-zinc-400">
-              Hello! I'm Wilfred Yeku, a Software Engineer based in Dubai. I specialize in helping companies build web applications that drive business growth and efficiency. By leveraging my expertise in modern technologies, I create solutions that are not only robust and scalable but also tailored to meet your unique business needs.
+              Hello! I&apos;m Wilfred Yeku, a Software Engineer based in Dubai. I specialize in helping companies build web applications that drive business growth and efficiency. By leveraging my expertise in modern technologies, I create solutions that are not only robust and scalable but also tailored to meet your unique business needs.
             </p>
             <a href="#contact" className="cta">Get in Touch</a>
             <div className="mt-6 flex gap-6">
